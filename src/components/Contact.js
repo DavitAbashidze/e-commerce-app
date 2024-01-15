@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 const Contact = () => {
   return (
@@ -13,7 +13,7 @@ const Contact = () => {
             corporis totam animi!
           </p>
           <form
-            action="https://formspree.io/f/mzbwnyov"
+            action="https://formspree.io/f/mayrndlj"
             method="POST"
             className="contact-form"
           >
